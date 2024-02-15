@@ -2,7 +2,7 @@
 This checkout system is designed to handle a shopping cart where items can be added, and promotions can be applied to those items to calculate the total price. It supports fixed discount promotions, unit price discount promotions, and promotions that add free items to the cart.
 
 ## Installation
-Ensure you have Python installed on your system. This project was developed using Python 3.8, but it should be compatible with most Python 3.x versions.
+Ensure you have Python installed on your system. This project was developed using Python 3.7, but it should be compatible with most Python 3.x versions.
 
 ## Running the Tests
 To run the tests, navigate to the project directory where the test file is located (repo root - test_checkout.py and run,
